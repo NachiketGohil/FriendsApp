@@ -1,0 +1,14 @@
+flutter_native_splash:
+
+  color: "#ffffff"
+  image: "assets/friends-logo.png"
+
+  color_dark: "#bbbbbb"
+  image_dark: "assets/friends-logo.png"
+
+  android: true
+  ios: true
+
+  android_gravity: fill_horizontal
+  ios_content_mode: scaleAspectFit
+  fullscreen: true
